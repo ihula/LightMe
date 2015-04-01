@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">健康管家</string>
+    <string name="login_title_login">登录</string>
+    <string name="login_title_register">注册</string>
+    <string name="login_title_account">帐号</string>
+    <string name="login_title_psw">密码</string>
+    <string name="login_input_account">请输入您的帐号</string>
+    <string name="login_title_forgetpsw">忘记密码?</string>
+    <string name="login_title_psw_hint">请输入用户密码</string>
+    <string name="login_title_social">使用社交账号快速登录</string>
+    <string name="login_title_social_weibo">微博登录</string>
+    <string name="login_title_social_wechat">微信登录</string>
+    <string name="login_title_social_qq">QQ登录</string>
+    <string name="login_title_share">分享到社区</string>
+    <string name="login_title_policy">隐私政策</string>
+    <string name="login_down">下载有灯</string>
+    <string name="reg_input_password">请输入密码</string>
+    <string name="reg_input_account">请输入您的帐号</string>
+    <string name="reg_next">注册</string>
+    <string name="title_activity_main">健康管家</string>
+
+</resources>
